@@ -1,0 +1,1 @@
+# Project to hold Euler solutions
